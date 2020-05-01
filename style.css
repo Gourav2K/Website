@@ -1,0 +1,319 @@
+body{
+    background-color: white;
+    margin:0px;
+}
+
+header{
+    background-color: white;
+    height:80px;
+    margin: none;
+}
+
+.logo{
+    padding-top:30px;
+}
+
+#header-container{
+    width:75%;
+    margin:auto;
+}
+.col-3{
+    
+    width: 33%;
+    float:left;
+} 
+
+.menu{
+    margin-top: 32px;
+}
+.menu li{
+    list-style: none;
+    display: inline;
+    font-size:.95em;
+    color:#8e8e8e;
+    padding-right:15px;
+}
+
+.GetStartedBTN{
+    background-color:#6dc77a;
+    border-radius:28px;
+    -moz-border-radius:28px;
+    -webkit- border-radius:28px;
+    text-decoration:none;
+    color:#ffffff;
+    padding:10px 26px;
+    margin-top:20px;
+    display:inline-block; 
+    float:right;
+}
+
+#top-main{
+    background-image: url(../2015-10-14_09-04-03__friends.jpg);
+    height:740px;
+    border:none;
+}
+
+#top-text{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+
+#top-text h1{
+    font-size: 4em;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 100px;
+}
+
+#top-text .firstpara1{
+    color:white;
+    font-size: 1.5em;
+    font-weight: 400;
+    text-align:center;
+    margin:10px;
+}
+
+.PlayBTN{
+    margin:auto;
+    display:block;
+    margin-top:70px;
+    margin-bottom:140px;20
+}
+
+#top-text .secondpara1{
+    color:white;
+    font-size: 1em;
+    text-align:center;
+}
+
+.FreetrialBTN{
+    background-color: #6dc77a;
+    text-decoration:none;
+    color:#ffffff;
+    padding: 10px  80px;    
+}
+
+.Freetrialfields input{
+    width:250px;
+    font-size: 15px;
+    height:30px;
+}
+
+.Freetrialfields{
+    width:65%;
+ margin-left: auto;
+ margin-right: auto;
+    padding-top: 30px;   
+}
+
+.main-2{
+    padding-top:100px;
+}
+.main-2 p{
+    font-size:2em;
+    text-align: center;
+    margin:5px; 
+}
+
+
+#udemy{
+    background-color: #6dc77a;
+    color: #ffffff;
+}
+
+.main-3{
+    width:80%;
+    margin:auto;
+    padding-bottom:400px;
+}
+.pic{
+    width:30%;
+    padding: 10px;
+    float:left;
+    text-align: center;
+}
+
+.pic img{
+    width:100%;
+}
+
+.showcase-container{
+    width=100%;
+    background-color: #f6f8fa;
+    padding-top: 50px;
+    clear: both;
+}
+
+.col-2-1{
+    
+    width:80%;
+    margin:auto;
+    overflow: auto;
+}
+
+.content{
+    width: 50%;
+    float:left;
+}
+
+.content h2{
+    padding-left:80px;
+    padding-top: 300px;
+    padding-right:20px;
+    font-size: 40px;
+}
+
+.content p{
+    padding-left:80px;
+    padding-right: 100px;
+    padding-bottom: 150px;
+    font-size: 20px;
+}
+
+.col-2-2{
+    width:80%;
+    margin: auto;
+    overflow: auto;
+}
+.content2{
+    width:50%;
+    float:left;
+    
+}
+
+.content2 img{
+   width:100%;
+}
+
+.content2 h2{
+    padding:300px 0px 0px 120px;
+    font-size: 40px; 
+}
+
+.content2 p{
+    margin-top:30px;
+    padding-left:120px;
+    padding-right: 50px;
+    margin-bottom: 300px;
+    font-size: 1.2em;
+}
+
+#TryTodayContainer{
+    background-image: url(../darkdesk.png);
+    background-position:55% 45%;
+    height:450px;
+    padding-bottom:45px;
+}
+
+#TryTodayContainer .Text{
+    color:white;
+    text-align: center;
+}
+
+#TryTodayContainer .Text h1{
+    margin-top:0px;
+    padding-top:100px;
+    font-size:4em;
+}
+
+#TryTodayContainer .Text p{
+    font-size:1.5em;
+    margin-top:0px;
+    margin-bottom:70px;
+}
+
+#TryTodayContainer .BtN{
+    background-color: #6dc77a;
+    color:white;
+    text-decoration:none;
+    font-size:1.7em;
+    padding: 30px 75px;
+}
+
+#main-5-Container{
+    width=100%;
+    margin-bottom:420px;
+}
+
+#main-5-Container .col-2{
+    width:80%;
+    margin:auto;
+}
+
+#main-5-Container .col-2 .quote{
+    width:40%;  
+    float:left;
+    padding-right: 5%;
+    padding-top: 100px;
+}
+
+#main-5-Container .col-2 .SignUpContainer{
+    width:40%;
+    float:left;
+    background-color:#f6f8fa;
+    margin-left: 5%;
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#main-5-Container .col-2 .SignUpContainer h3{
+    font-size: 0.9em;
+    margin-bottom: 50px;
+    
+}
+
+#main-5-Container .col-2 .SignUpContainer input{
+    width:250px;
+    height:40px;
+    margin-bottom: 30px;
+}
+
+.SignUpBTN{
+    background-color: #6dc77a;
+    text-decoration: none;
+    color:#ffffff;
+    padding: 15px 80px;
+}
+
+.SignUpContainer p{
+    margin-top:20px;
+    font-size:0.8em;
+}
+
+footer{
+    background-image: url(/footerbg.png);
+    background-position: 40% 50%;
+    height:500px;
+    width:100%;
+}
+
+footer .col-3{
+    width:33.33%;
+    float: left;
+    height:40%;
+}
+
+.Logo{
+    width:50px;
+    padding-top: 60px;
+    margin:auto;
+}
+
+footer .col-3:hover {
+    background-color: black;
+    opacity: .5;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: .9em;
+    text-align: center;
+    display: block;
+    padding-top: 15px;
+}
